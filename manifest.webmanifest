@@ -1,0 +1,25 @@
+{
+  "name": "Водич за намаз – Решат Маловски",
+  "short_name": "Намаз Решат",
+  "description": "Фарз • Суннет • Анимации • Абдест • Дови • Езан за Дебар",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d7377",
+  "theme_color": "#0d7377",
+  "orientation": "portrait-primary",
+  "lang": "mk",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
